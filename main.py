@@ -13,7 +13,7 @@ print(type(a)) ''')
 ('''a=int(int(input("enter number 1:"))
 )b=int(int(input("enter number 2:"))
 )
-print("a is greater than b is",a>b)''')
+print("a is greater than b is",a>b)=''')
 
 ('''a=int(int(input("enter a number"))
 b)=int(int(input("enter a number"))
